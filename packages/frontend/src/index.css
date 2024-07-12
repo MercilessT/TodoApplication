@@ -1,0 +1,10 @@
+body,
+html,
+[class^='bp5'],
+[class*=' bp5'],
+[class^='bp6'],
+[class*=' bp6'],
+[class^='bp7'],
+[class*=' bp7'] {
+	font-family: 'Inter', sans-serif !important;
+}
